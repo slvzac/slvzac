@@ -2,8 +2,8 @@
 I am Zachary from Sunway University, currently pursuing Software Engineering!
 
 **Info about me**
-⭐ - Working on: Scala Project
-🌱 - Learning: Scala
+- ⭐ Working on: Scala Project
+- 🌱 Learning: Scala
 
 **Experience**
 1. Python 📐
